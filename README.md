@@ -20,3 +20,5 @@ ___
 ## More SQL Review Materials
 
 You can find lots more SQL review materials by clicking the image below. [![DS Review Hub](https://i.pinimg.com/564x/bd/a5/99/bda599a6ddb4e30c1e99e649597e6330.jpg)](https://ds-review-hub.github.io/sql_reviews).
+
+![profile-visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/CodeupClassroom/germain-mysql-exercises)
