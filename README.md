@@ -14,3 +14,9 @@ ___
 ## Useful SQL Operators
 
 ![SQL Operators](https://i.pinimg.com/564x/cf/d7/43/cfd7433698b0ef4bd75e803333df8467.jpg)
+
+___
+
+## More SQL Review Materials
+
+You can find lots more SQL review materials by clicking the image below. [![DS Review Hub](https://i.pinimg.com/564x/bd/a5/99/bda599a6ddb4e30c1e99e649597e6330.jpg)](https://ds-review-hub.github.io/sql_reviews).
