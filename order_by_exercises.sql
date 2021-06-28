@@ -75,7 +75,7 @@ ORDER BY hire_date DESC;
 
 -- a. Enter a comment with the number of employees returned, the name of the newest employee (899 observations) (67892	1958-08-15	Teiji	Eldridge	M	1999-11-27) 
 
--- b. and the name of the oldest employee. (899 observations)(67892	1958-08-15	Teiji	Eldridge	M	1999-11-27)
+-- b. and the name of the oldest employee. (899 observations)(233488	1961-12-16	Sergi	Erde	F	1985-02-02)
 
 SELECT *
 FROM employees
