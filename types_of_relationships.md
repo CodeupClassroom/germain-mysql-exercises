@@ -1,0 +1,7 @@
+Types of Relationships
+- If we have a username and a password, we have a 1:1 relationship, 1:1 usually on the same table
+- If we have an authors table and a quotes table, and the quotes table has a foreign key to author_id, then we call this a one-to-many relationship. One author has many blog posts. Many blog posts belong to one author. One-to-Many
+- One to many example: Employees to Salaries. One employee has many salaries / many salaries belong to one employee. How do we know this? b/c the foreign key (emp_no) exists on the salaries table as a column.
+- W/ a One-to-Many relationship, the Many table has a foreign key that references the primary key from the One table. Think: employees to titles or employees to salaries.
+
+- Many to Many relationship. One employee can belong to many departments. One department can have many employees. What's the relationship between employee to department? Employees table doesn't have ANY foreign keys. Departments table doesn't have ANY foreign keys. A 3rd table exists with all the relationships. dept_emp table is that relationship/joiner table. Our 3rd table in a Many-to-Many establishes/holds the relationship(s) between the 1st table and 2nd table's entities.
