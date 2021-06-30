@@ -1,3 +1,5 @@
+# These are the join lesson notes
+
 # Inner join gives us all A that exist in B, all B that exist in A, A and B
 # 4 records of users with roles, roles with users
 select * 

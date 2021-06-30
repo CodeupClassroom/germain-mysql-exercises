@@ -1,3 +1,5 @@
+# These are the join exercises for the join lesson
+
 # Exercise 2
 select dept_name as "Department Name", concat(first_name, " ", last_name) as "Department Manager"
 from employees

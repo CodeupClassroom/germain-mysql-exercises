@@ -1,3 +1,5 @@
+# These are the group-by curriculum exercises
+
 -- 2. In your script, use DISTINCT to find the unique titles in the titles table. How many unique titles have there ever been? Answer that in a comment in your SQL file. (7 unique titles)
 
 USE employees;
