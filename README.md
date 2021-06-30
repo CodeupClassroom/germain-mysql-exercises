@@ -1,6 +1,6 @@
 # Welcome, Germain students!
 
-This is our repo for all of our SQL lesson and exercise materials.
+This is the instructional repo for all of our SQL lessons and exercise materials. Materials are presented without waranty. 
 
 ___
 
