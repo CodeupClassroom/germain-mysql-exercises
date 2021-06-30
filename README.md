@@ -1,4 +1,4 @@
-# Welcome, Germain students!
+# Welcome, Germain Students!
 
 This is the instructional repo for all of our SQL lessons and exercise materials. Materials are presented without waranty. 
 
